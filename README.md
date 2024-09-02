@@ -1,6 +1,5 @@
 # OpenWebUI_LLM : https://openwebui.com/m/nihaal007/nikolas-tesla/
 
-**Model Description:**
 
 **Model Description:**
 
